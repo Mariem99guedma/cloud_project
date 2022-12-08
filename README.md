@@ -2,7 +2,7 @@
 
 This is a simple web application. It has working user registration, login page and there is a complete example of CRUD which contains example for Angular Routing and dotnet rest api samples. Also, rest services are secure using JWT. 
 
-Below is the architecture of the application while it is running.
+
 
 
 ## To Quick Run
